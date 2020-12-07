@@ -1,0 +1,8 @@
+title not in h1
+href missing from https://en.wikipedia.org/wiki/Boo_(dog)
+<> missing around img
+rows wrong way around
+misnamed script href
+wrong color button text
+no quotes around various strings in js
+button games wrong order
